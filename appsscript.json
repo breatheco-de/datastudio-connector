@@ -1,0 +1,13 @@
+{
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "BreatheCode Leads",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+    "company": "BreatheCode",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get lead information from breathecode.",
+    "sources": ["npm"]
+  }
+}
