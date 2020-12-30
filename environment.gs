@@ -1,0 +1,3 @@
+function isAdminUser() {
+  return true;
+}
